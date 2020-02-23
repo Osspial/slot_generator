@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "slot-generator"
+name = "slot_generator"
 version = "0.1.0"
 dependencies = [
  "num-traits",
