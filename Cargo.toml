@@ -3,8 +3,12 @@ name = "slot_generator"
 version = "0.1.0"
 authors = ["Osspial <osspial@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Efficiently generate and reclaim slot IDs from a numerical range"
+repository = "https://github.com/Osspial/slot_generator"
+readme = "./README.md"
+keywords = ["slot", "id", "generator"]
+categories = ["algorithms"]
+license = "Zlib"
 
 [dependencies]
 num-traits = "0.2"
